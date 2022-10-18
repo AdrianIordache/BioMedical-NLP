@@ -7,4 +7,4 @@
 
 ***Laboratory: Ana-Sabina Uban***
 
-***Exam: 0.3 * Paper Review Group + 0.7 * Final Project***
+***Exam: 30% * Paper Review Group + 70% * Final Project***
